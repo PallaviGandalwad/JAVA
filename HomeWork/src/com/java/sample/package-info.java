@@ -15,7 +15,7 @@ class sample{
 	{
 		for(int j=1 ;j<=4 ; j++)
 		{
-			if(j=1) {//Type mismatch: cannot convert from int to boolean
+			if(j==1) {//Type mismatch: cannot convert from int to boolean
 			System.out.println("@");	
 			break;
 				
